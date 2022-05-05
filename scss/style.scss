@@ -40,12 +40,11 @@ main {
 .card {
     @include display(row);
     max-width: 65.25rem;
-    max-height: 60vh;
 }
 
 .mini-section {
     @include display(column);
-    padding: 2rem;
+    padding: 1rem;
     gap: 2rem;
 
     img {
@@ -61,7 +60,7 @@ main {
         width: 10rem;
         border-radius: 2rem;
         margin-left: 1rem;
-        margin-top: 3.5rem;
+        margin-top: 3rem;
         margin-bottom: 1rem;
         outline: none;
         border: 2px solid $very-light-gray;
@@ -119,7 +118,7 @@ main {
         font-weight: 200;
         color: $paragraphs;
         line-height: 1.85;
-        padding-right: 1.75rem;
+        padding-right: 1rem;
     }
 }
 
