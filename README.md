@@ -16,4 +16,4 @@ Users should be able to:
 ## 🔗 Links
 
 - [Solution URL](https://www.frontendmentor.io/solutions/responsive-3column-preview-card-using-scss-css-flexbox-SkZerQx8q)
-- [Live Site URL](https://rowentey.github.io/column-preview-card-component/)
+- [Live Site URL](https://column-preview-card-component-c6v.pages.dev/)
